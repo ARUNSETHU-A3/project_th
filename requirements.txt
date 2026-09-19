@@ -7,3 +7,5 @@ dj-database-url
 psycopg[binary]
 whitenoise
 gunicorn
+cloudinary
+django-cloudinary-storage
